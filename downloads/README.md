@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [qwen_image_vae](./qwen_image_vae)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
