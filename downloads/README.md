@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [qwen_3_06b_base](./qwen_3_06b_base)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
